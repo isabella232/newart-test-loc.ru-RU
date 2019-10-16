@@ -1,0 +1,1 @@
+# <a name="welcome-to-newart-test"></a><span data-ttu-id="cbb76-101">Добро пожаловать в неварт-Test!</span><span class="sxs-lookup"><span data-stu-id="cbb76-101">Welcome to newart-test!</span></span>
